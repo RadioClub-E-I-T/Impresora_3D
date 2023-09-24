@@ -9,4 +9,4 @@ La idea todavía por desarrollar es descargar un progrma an una raspberry-pi par
 
 El programa a utilizar es el que se incluye en esta rama, es muy probable que pueda existir programas más modernos.
 
-  
+  Ruben Sanz Sanchez EA1FRA
