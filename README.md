@@ -7,7 +7,7 @@ El presidente de la sección de URE de Madrid Cesar Gallego EA4HFF, Nos donó el
 
 La idea todavía por desarrollar es descargar un progrma an una raspberry-pi para poder enviar los archivos por internet, y dado que el eje z es infinito no es necesario estar pendiente de quitar las piezas, limpiar o echar la laca, como puede ocurrir en otras impresoras.
 
-El programa necesario para diseñar las piezas, consiste en instalar cualquier programa que permita exportar la pieza en cuestión en un archivo .stl. Yo recomiendo SolidEdge, por ser un programa profesional, pero que permite tener una versión de estudiante sin limitaciones (Se puede obtener de su página oficial)
+El programa necesario para diseñar las piezas, consiste en instalar cualquier programa que permita exportar la pieza en cuestión en un archivo .stl. Yo recomiendo SolidEdge (https://solidedge.siemens.com/es/solutions/users/students/) por ser un programa profesional, pero que permite tener una versión de estudiante sin limitaciones. Aunque pueden existir otros que os sirvan u os entendáis mejor.
 
 Para generar los archivos GCODE, se necesita un programa especial, que permita fraccionar la piezas en comando entendibles por la impresora, uno de los más conocidos para este fin es el "CURA". Sin embargo dado que el ángulo de extrusión es de 45º, se necesita un programa especial para poder generar los archivos .GCODE. Existen diversos programas para ello, que se pueden encontrar en la página oficial de creality https://www.creality.com/pages/download-cr-30-3d-printer. Sin embargo dentro de esos el que más recomendamos es Software and Drive_3DPrintMill. El cual es una adaptación directa de el "CURA".
 
